@@ -1,2 +1,3 @@
 # MarketBasketAnalysis
 Retail Insights through Apriori-Based Market Basket Analysis
+Market Basket Analysis is a powerful tool for identifying patterns in items frequently purchased together, offering valuable insights for strategic business decisions. This project uses a retailer's transaction data, which captures detailed sales activity over time, this analysis reveals sales trends, customer behaviour, and product interactions. By uncovering relationships between commonly purchased items, businesses can drive targeted marketing, optimize inventory, and implement effective cross-selling and up-selling strategies.
