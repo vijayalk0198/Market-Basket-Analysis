@@ -45,7 +45,7 @@ To extract actionable insights, rules with **high lift values (greater than 1)**
 This structured approach ensured that the insights derived from the analysis were both statistically meaningful and actionable for retail decision-making and also help in  effectively communicating the findings.
 
 ## Results
-## Results/Findings
+
 - **Extensive Association Rule Generation**:  
   The Apriori algorithm generated over **800 association rules**, identifying high-frequency item sets and uncovering key patterns in customer purchasing behavior. These rules revealed strong relationships between products, providing a foundation for targeted sales strategies.
 
